@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harishmkavitha.github.io/velloreprinters/sitemap.xml
