@@ -1,0 +1,372 @@
+{
+ "assets/img/og-cover.jpg": {
+  "w": 1200,
+  "h": 630,
+  "webp": true
+ },
+ "assets/img/about-studio.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/cases/retail.jpg": {
+  "w": 1400,
+  "h": 233,
+  "webp": true
+ },
+ "assets/img/cases/architecture.jpg": {
+  "w": 550,
+  "h": 650,
+  "webp": true
+ },
+ "assets/img/cases/healthcare.jpg": {
+  "w": 1366,
+  "h": 275,
+  "webp": true
+ },
+ "assets/img/cases/education.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/services/water-bottle-printing.jpg": {
+  "w": 550,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/services/stickers-printing.jpg": {
+  "w": 90,
+  "h": 90,
+  "webp": true
+ },
+ "assets/img/services/wedding-card-printing.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/certificate-design.jpg": {
+  "w": 400,
+  "h": 280,
+  "webp": true
+ },
+ "assets/img/services/mug-printing.jpg": {
+  "w": 953,
+  "h": 304,
+  "webp": true
+ },
+ "assets/img/services/envelope-printing.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/flyer-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/book-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/product-label-design.jpg": {
+  "w": 1130,
+  "h": 385,
+  "webp": true
+ },
+ "assets/img/services/standee-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/book-printing.jpg": {
+  "w": 350,
+  "h": 525,
+  "webp": true
+ },
+ "assets/img/services/catalogue-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/flyer-printing.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/lanyard-printing.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/services/cd-sticker-printing.jpg": {
+  "w": 1000,
+  "h": 325,
+  "webp": true
+ },
+ "assets/img/services/letterhead-design.jpg": {
+  "w": 450,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/business-card-printing.jpg": {
+  "w": 550,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/services/bill-book-printing.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/services/certificate-printing.jpg": {
+  "w": 355,
+  "h": 265,
+  "webp": true
+ },
+ "assets/img/services/keychain-printing.jpg": {
+  "w": 550,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/services/business-card-design.jpg": {
+  "w": 750,
+  "h": 667,
+  "webp": true
+ },
+ "assets/img/services/letterhead-printing.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/product-label-printing.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/brochure-printing.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/bill-book-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/brochure-design.jpg": {
+  "w": 600,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/services/booklet-printing.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/services/id-card-printing.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/services/poster-printing.jpg": {
+  "w": 500,
+  "h": 399,
+  "webp": true
+ },
+ "assets/img/services/envelope-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/services/id-card-design.jpg": {
+  "w": 1400,
+  "h": 338,
+  "webp": true
+ },
+ "assets/img/blog/gsm-guide.jpg": {
+  "w": 450,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/blog/wedding-card-timeline.jpg": {
+  "w": 300,
+  "h": 460,
+  "webp": true
+ },
+ "assets/img/blog/cmyk-vs-rgb.jpg": {
+  "w": 684,
+  "h": 540,
+  "webp": true
+ },
+ "assets/img/gallery/id-card-design-chennai.jpg": {
+  "w": 1200,
+  "h": 290,
+  "webp": true
+ },
+ "assets/img/gallery/flyer-design-chennai.jpg": {
+  "w": 1200,
+  "h": 290,
+  "webp": true
+ },
+ "assets/img/gallery/mug-printing-chennai.jpg": {
+  "w": 953,
+  "h": 304,
+  "webp": true
+ },
+ "assets/img/gallery/nfc-business-card-in-chennai.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/imported-paper-letterhead-printing.jpg": {
+  "w": 450,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/gallery/Rollup-Standee-Design-and-Printing-in-Chennai.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/standee-design-chennai-1.jpg": {
+  "w": 1200,
+  "h": 290,
+  "webp": true
+ },
+ "assets/img/gallery/letterhead-printing-chennai.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/gallery/premium-business-cards.jpg": {
+  "w": 550,
+  "h": 650,
+  "webp": true
+ },
+ "assets/img/gallery/business-card-printing-in-chennai.jpg": {
+  "w": 550,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/gallery/book-printing-chennai.jpg": {
+  "w": 350,
+  "h": 525,
+  "webp": true
+ },
+ "assets/img/gallery/flex-printing-services-in-chennai.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/cd-sticker-printing-chennai.jpg": {
+  "w": 1000,
+  "h": 325,
+  "webp": true
+ },
+ "assets/img/gallery/Lanyard-Printing.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/best-flyer-printing-chennai.jpg": {
+  "w": 1200,
+  "h": 200,
+  "webp": true
+ },
+ "assets/img/gallery/product-sticker-printing-chennai.jpg": {
+  "w": 450,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/water-bottle-printing-services.jpg": {
+  "w": 550,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/gallery/brochure-designer-chennai.jpg": {
+  "w": 600,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/gallery/Product-label-printing-in-chennai.jpg": {
+  "w": 1200,
+  "h": 290,
+  "webp": true
+ },
+ "assets/img/gallery/envelope-printing-chennai.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/gallery/creative-busness-card-design.jpg": {
+  "w": 750,
+  "h": 667,
+  "webp": true
+ },
+ "assets/img/gallery/sticker-printing-chennai.jpg": {
+  "w": 90,
+  "h": 90,
+  "webp": true
+ },
+ "assets/img/gallery/brochure-printing-in-chennai.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/gallery/hotcase-book-binding.jpg": {
+  "w": 400,
+  "h": 340,
+  "webp": true
+ },
+ "assets/img/gallery/booklet-printing-chennai.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/gallery/id-card-printing-service-in-chennai.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/office-id-card-printing-in-chennai.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/keychain-printing-services.jpg": {
+  "w": 550,
+  "h": 350,
+  "webp": true
+ },
+ "assets/img/gallery/corporate-identity-design.jpg": {
+  "w": 600,
+  "h": 407,
+  "webp": true
+ },
+ "assets/img/gallery/welcome-boards.jpg": {
+  "w": 1024,
+  "h": 216,
+  "webp": true
+ },
+ "assets/img/gallery/clothing-stickers-and-labels-printing.jpg": {
+  "w": 90,
+  "h": 90,
+  "webp": true
+ },
+ "assets/img/gallery/bill-book-printing-services.jpg": {
+  "w": 1024,
+  "h": 450,
+  "webp": true
+ },
+ "assets/img/gallery/wedding-card-printing-chennai.jpg": {
+  "w": 300,
+  "h": 300,
+  "webp": true
+ },
+ "assets/img/gallery/book-design-chennai.jpg": {
+  "w": 1200,
+  "h": 290,
+  "webp": true
+ }
+}
